@@ -8,4 +8,4 @@ How to compile/run:
 Days:
 
 1. C (also golfed to 85 and 101 bytes)
-2. C
+2. C (also golfed to 132 and 150 bytes)
