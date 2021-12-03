@@ -9,3 +9,4 @@ Days:
 
 1. C (also golfed to 85 and 101 bytes)
 2. C (also golfed to 128 and 146 bytes)
+3. C (first half)
